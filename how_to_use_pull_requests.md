@@ -24,8 +24,3 @@ git push
 ![](./img/pull_request.png) 
 
 提交后就可以在主项目的 `Pull requests` 里看到自己发起的 PR，之后等待仓库所有者合并即可。
-
-## 参考链接
-
-- [Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
-- [官方文档](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
