@@ -27,5 +27,5 @@ git push
 
 ## 参考链接
 
-[Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
-[官方文档](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+- [Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
+- [官方文档](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)

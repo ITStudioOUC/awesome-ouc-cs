@@ -13,11 +13,13 @@
 ## 目录
 
 - [计算机网络](./common/ComputerNetwork)
+- [C++ 课程设计](./common/CppProjects)
 
 
 ## 合作
 
-欢迎有意愿开源自己实验代码和相关课程资料的 OUCer，可以联系社团 **ITStudio** 负责人，或者直接发起 [pull request](./how_to_use_pull_requests.md)
+- 欢迎有意愿开源自己实验代码和相关课程资料的 OUCer，可以联系社团 **ITStudio** 负责人，或者直接发起 [pull request](./how_to_use_pull_requests.md)
 
+- 可以加入索引的有自己的开源项目，也或者是根据实验内容写的博客，或者其他的相关内容。
 
 ## 致谢
