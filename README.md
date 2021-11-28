@@ -14,6 +14,8 @@
 
 - [计算机网络](./common/ComputerNetwork)
 - [C++ 课程设计](./common/CppProjects)
+- [C++ 课程实验]("./common/ObjectOrientedProgramming")
+- [计算机图形学]("./common/ComputerGraphics")
 
 
 ## 合作
