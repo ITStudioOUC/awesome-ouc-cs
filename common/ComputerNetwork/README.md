@@ -5,5 +5,5 @@
 
 ## Java 模拟 TCP 可靠传输
 
-- [Ctwo](https://github.com/cyx0706/OUC-ComputerNetwork-Exp)
+- [Ctwo](https://github.com/YuiCtwo/OUC-ComputerNetwork-Exp)
 - [Leo](https://github.com/249606097/TCP-Experiment)
