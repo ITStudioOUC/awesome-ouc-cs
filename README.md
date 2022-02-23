@@ -16,6 +16,7 @@
 - [C++ 课程设计](./common/CppProjects)
 - [C++ 课程实验](./common/ObjectOrientedProgramming)
 - [计算机图形学](./common/ComputerGraphics)
+- [yyx的课程资料](https://github.com/19020011038/OUC-HomeWork)
 
 
 ## 合作
