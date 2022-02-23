@@ -16,12 +16,16 @@
 - [C++ 课程设计](./common/CppProjects)
 - [C++ 课程实验](./common/ObjectOrientedProgramming)
 - [计算机图形学](./common/ComputerGraphics)
-- [操作系统实验](https://github.com/19020011038/OUC-HomeWork/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%AE%9E%E9%AA%8C)
-- [数值分析实验](https://github.com/19020011038/OUC-HomeWork/tree/main/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E5%AE%9E%E9%AA%8C)
-- [数据结构与算法实验](https://github.com/19020011038/OUC-HomeWork/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
-- [计算机系统基础实验](https://github.com/19020011038/OUC-HomeWork/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80)
-- [计算机组成原理实验](https://github.com/19020011038/OUC-HomeWork/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [操作系统实验](./common/OperatingSystem)
+- [数值分析实验](./common/Numerical Analysis)
+- [数据结构与算法实验](./common/Data Structures and Algorithms)
+- [计算机系统基础实验](./common/Computer System Fundamentals)
+- [计算机组成原理实验](./common/Principles of Computer Composition)
+- [软件工程](./common/software engineering)
+- [软件系统设计与分析](./common/Software System Design and Analysis)
 
+
+另附：
 - [yyx的课程资料](https://github.com/19020011038/OUC-HomeWork)
 
 
