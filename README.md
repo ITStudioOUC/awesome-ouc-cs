@@ -17,7 +17,7 @@
 - [C++ 课程实验](./common/ObjectOrientedProgramming)
 - [计算机图形学](./common/ComputerGraphics)
 - [操作系统实验](./common/OperatingSystem)
-- [数值分析实验](./common/Numerical Analysis)
+- [数值分析实验](./common/Numerical%20Analysis)
 - [数据结构与算法实验](./common/Data Structures and Algorithms)
 - [计算机系统基础实验](./common/Computer System Fundamentals)
 - [计算机组成原理实验](./common/Principles of Computer Composition)
