@@ -13,20 +13,28 @@
 ## 目录
 
 - [计算机网络](./common/ComputerNetwork)
+
 - [C++ 课程设计](./common/CppProjects)
+
 - [C++ 课程实验](./common/ObjectOrientedProgramming)
+
 - [计算机图形学](./common/ComputerGraphics)
+
 - [操作系统实验](./common/OperatingSystem)
+
 - [数值分析实验](./common/NumericalAnalysis)
+
 - [数据结构与算法实验](./common/DataStructuresAndAlgorithms)
+
 - [计算机系统基础实验](./common/ComputerSystemFundamentals)
+
 - [计算机组成原理实验](./common/PrinciplesOfComputerComposition)
+
 - [软件工程](./common/SoftwareEngineering)
+
 - [软件系统设计与分析](./common/SoftwareSystemDesignAndAnalysis)
 
-
-另附：
-- [yyx的课程资料](https://github.com/19020011038/OUC-HomeWork)
+  
 
 
 ## 合作
