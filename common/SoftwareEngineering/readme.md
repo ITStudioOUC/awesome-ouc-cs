@@ -6,6 +6,7 @@
 
 【[软件工程导论学习辅导](https://www.alipan.com/s/Qwsw1JwbApz)】
 
+后面有想到的再分享，大家有需要的资源，可以提issue 。
 
 
 
